@@ -18,6 +18,8 @@ To train on pdg data, you will have to change the names of the pickle files at t
 ## Data
 
 Before running anything, please unzip `all_data.zip` first!  
+  
+`wget --no-check-certificate -O all_data.zip "https://onedrive.live.com/download?cid=15E206B36A9C8AE7&resid=15E206B36A9C8AE7%21300809&authkey=AECPe5YU26hRj_g"`  
 
 In the data directory, each file generates a certain type.  
 Below is the prefix of the file along with the data it generates.  
@@ -32,6 +34,9 @@ The * symbol is one of SARD, NVD or GIT:
 ## Models
 
 Before running any scripts. please unzip `all_models.zip` first!  
+  
+`wget --no-check-certificate -O all_models.zip "https://onedrive.live.com/download?cid=15E206B36A9C8AE7&resid=15E206B36A9C8AE7%21300810&authkey=AJuxUdOyJDxdtp4"`  
+  
 Unzip all files into the `root` directory.  
 3 models will be extracted:  
 
