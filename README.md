@@ -66,7 +66,8 @@ If you refer to our work, please cite our paper as below:
   year={2022},
   volume={},
   number={},
-  pages={1-8}
+  pages={1-8},
+  doi={10.1109/DSC54232.2022.9888816}
   
 }
 ```
