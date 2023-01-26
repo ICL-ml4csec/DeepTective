@@ -1,6 +1,8 @@
 # DeepTective
 A Hybrid Graph Neural Network Approach for Detecting PHP Vulnerabilities
 
+![DeepTective architecture](deeptective.png)
+
 ## Description
 
 This is a repo of the code used for detecting vulnerabilities in php source code.  
