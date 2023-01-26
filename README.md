@@ -55,6 +55,9 @@ Unzip all files into the `root` directory.
 
 ## Citation
 
+Accepted as conference paper (oral presentation) at the IEEE Conference on Dependable and Secure Computing (DSC) 2022.
+Link to paper: https://ieeexplore.ieee.org/document/9888816
+
 If you refer to our work, please cite our paper as below:  
 
 ```bibtex
